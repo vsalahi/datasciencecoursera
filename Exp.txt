@@ -1,4 +1,0 @@
-name,age,education
-ali,12,highschool
-morad,37,Master
-daniel,23,PhD
